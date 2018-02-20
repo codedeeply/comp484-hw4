@@ -12,14 +12,13 @@ In this hw, you will work on the sample Comp484 site to determine where lists ar
 			b.	In the HTML timeline section examine the paragraphs containing relevant dates. Is this the best semantic grouping for this content?
 			c. If not, organize the timeline into the appropriate list type
 
-3.	Examine doctype grouping
+(N/A) 3.	Examine doctype grouping
 			a.	Applies to: syntax.html
 			b.	Find the section on doctypes
 			c. Examine the three doctypes and their examples. Would a list be the best semantic presentation of this content?
 			d. If so, organize the links into the appropriate list type
 			
-4.	Examine HTML terms
-			a.	Applies to: reference.html
+(DONE) 			a.	Applies to: reference.html
 			b.	Find the section for HTML terms
 			c. Examine the terms and their descriptions. Is this the best semantic grouping for the content?
 			d. If not, organize the links into the appropriate list type
